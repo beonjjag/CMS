@@ -1,0 +1,8 @@
+
+/*  별모양은 모든태그에 해당 */
+* {
+    margin:0; padding:0
+}
+
+li {list-style:none}
+a {text-decoration: none; color:#666}
