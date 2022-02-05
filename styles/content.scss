@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.contentWrap {
+    padding-top:38px;
+    .leftSider {display:inline-block; width:150px;}
+    .content {display:inline-block; width:calc(100% - 150px)}
+}
+
+
