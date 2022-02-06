@@ -7,9 +7,11 @@
 }
 
 html, body {width:100%; height:100%;}
-body {background-color:rgba(103,104,167,0.12); font-size:14px;}
+body {font-size:14px;}
 
 span, a, li, td, select {font-family: 'Noto Sans KR', sans-serif;}
 
 li {list-style:none}
 a {text-decoration: none; color:#333}
+
+body > div {height:100%}
